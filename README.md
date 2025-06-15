@@ -50,11 +50,14 @@ This project is a computer vision-based game that detects hand gestures via webc
 
 **Confusion Matrix:**
 
-![confusion matrix](model/confusion_matrix.png)
+![confusion matrix](confusion_matrix.png)
+![training matrics](training_matrics.png)
 
 **Classification Report:**
 paper: precision=0.95, recall=0.94, f1-score=0.94
+
 rock: precision=0.93, recall=0.95, f1-score=0.94
+
 scissors: precision=0.95, recall=0.94, f1-score=0.94
 
 yaml
@@ -82,7 +85,7 @@ Edit
 
 Install dependencies:
 
-```bash
+```
 pip install -r requirements.txt
 Sample requirements.txt:
 
@@ -96,27 +99,8 @@ numpy
 matplotlib
 seaborn
 gradio
-🖥 Run Locally
-bash
-Salin
-Edit
-python real_time_game.py
-🌐 Run on Hugging Face Spaces
-Create a new Gradio Space.
 
-Upload:
-
-app.py
-
-model/rps_model.h5
-
-requirements.txt
-
-Your app will be available at:
-https://huggingface.co/spaces/<your-username>/<space-name>
-
-📸 Screenshots
-Tambahkan screenshot real-time prediksi atau cuplikan game di sini!
+```
 
 📚 References
 Mediapipe by Google
@@ -130,7 +114,8 @@ Dataset from: Rock Paper Scissors - Labeled Image Dataset on Kaggle
 📃 License
 This project is licensed under the MIT License.
 See the LICENSE file for more information.
-
+```
 🙌 Author
 👤 Riel0303ru
 GitHub: @Riel0303ru
+```
