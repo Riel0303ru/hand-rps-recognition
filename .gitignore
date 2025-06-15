@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+
+# Model & data besar
+model/*.h5
+model/*.pkl
+*.pkl
+*.h5
+
+# Mediapipe/Tensorflow generated files
+*.tflite
+*.pb
+*.pyd
+*.dll
+
+# Cache & logs
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.DS_Store
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+.settings/
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Icon?
