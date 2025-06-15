@@ -49,22 +49,19 @@ This project is a computer vision-based game that detects hand gestures via webc
 **Accuracy**: `94.32%`
 
 **Confusion Matrix:**
+![training matrics](training_metrics.png)
 
 ![confusion matrix](confusion_matrix.png)
-![training matrics](training_matrics.png)
+
 
 **Classification Report:**
+```
 paper: precision=0.95, recall=0.94, f1-score=0.94
 
 rock: precision=0.93, recall=0.95, f1-score=0.94
 
 scissors: precision=0.95, recall=0.94, f1-score=0.94
-
-yaml
-Salin
-Edit
-
----
+```
 
 ## 🎮 Real-Time Game Features
 
