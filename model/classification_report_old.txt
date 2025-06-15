@@ -1,0 +1,5 @@
+Paper: precision=0.53, recall=0.44, f1-score=0.48
+Rock: precision=0.62, recall=0.59, f1-score=0.61
+Scissors: precision=0.49, recall=0.60, f1-score=0.54
+
+Accuracy: 0.55
