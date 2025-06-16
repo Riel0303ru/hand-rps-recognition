@@ -2,8 +2,6 @@
 
 Rock-Paper-Scissors gesture recognition using real-time webcam input and a Convolutional Neural Network (CNN) model trained with TensorFlow and Mediapipe.
 
-![preview](https://user-images.githubusercontent.com/your-gif-preview-if-any.gif)
-
 ---
 
 ## 📌 Project Overview
