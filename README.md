@@ -33,7 +33,7 @@ This project is a computer vision-based game that detects hand gestures via webc
 │   └── preprocessor.py
 │
 ├── data/
-│   └── (kosong / isi dataset, tapi jangan diupload langsung)
+│   └── (empty)
 │
 ├── LICENSE.txt
 ├── README.md
