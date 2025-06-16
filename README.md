@@ -84,9 +84,6 @@ Install dependencies:
 pip install -r requirements.txt
 Sample requirements.txt:
 
-nginx
-Salin
-Edit
 tensorflow
 opencv-python
 mediapipe
